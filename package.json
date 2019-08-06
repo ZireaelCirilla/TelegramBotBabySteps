@@ -1,0 +1,29 @@
+{
+  "name": "telegrambot-pruebita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZireaelCirilla/TelegramBotBabySteps.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot"
+  ],
+  "author": "ZTLR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZireaelCirilla/TelegramBotBabySteps/issues"
+  },
+  "homepage": "https://github.com/ZireaelCirilla/TelegramBotBabySteps#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
